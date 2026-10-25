@@ -1,0 +1,9 @@
+# 智能体设置 bundle layer: the Host half owns the durable roster, the panel
+# routes, and the delegation tools; the Client half is the Web management page.
+- insert:
+    - id: agent-settings
+      name: 'dsh-agent-settings'
+      config:
+        autoLaunch: true
+        maxAgents: 24
+        spawnProvider: spawn

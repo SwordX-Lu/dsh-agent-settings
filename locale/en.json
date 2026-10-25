@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Agent Settings",
+    "description": "Manage reusable sub-agents in the sidebar: responsibility, when to use them, and their provider/model route."
+  }
+}
